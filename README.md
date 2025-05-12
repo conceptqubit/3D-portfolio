@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-    <a href="https://utsabbhattacharyya.vercel.app/"><strong>🚀 View Demo</strong></a>
+    <a href="https://3-d-portfolio-qteo-lf8btuni0-utsabs-projects-0947c817.vercel.app/"><strong>🚀 View Demo</strong></a>
 </p>
 
 ## About The Project
